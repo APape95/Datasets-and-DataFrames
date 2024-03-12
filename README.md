@@ -1,34 +1,46 @@
-# Dataset Analysis
+## Dataset Analysis :mag:	
 
-This repository contains the code and notebooks for analyzing a dataset using Python. The primary goal is to perform various tasks outlined in the notebook `DatasetsTask.ipynb`.
+This repository contains code and notebooks for analyzing a dataset using Python. The primary goal is to perform various tasks outlined in the notebook `DatasetsTask.ipynb`.
 
-## Tasks Completed:
+## Tasks Completed
 
-1. **Code Implementation:**
-    - Developed Python code to perform the tasks described in the following statements:
+### Code Implementation:
 
-    a. Select the 'Limit' and 'Rating' columns of the first five observations.
-    
-    b. Select the first five observations with 4 cards.
-    
-    c. Sort the observations by 'Education'. Show users with a higher education value first.
+The Python code developed performs the tasks described in the following statements:
 
-## Instructions:
+a. Select the 'Limit' and 'Rating' columns of the first five observations.
 
-1. **File Structure:**
-    - The main notebook for the task is `DatasetsTask.ipynb`.
-    - All related files and datasets are stored within this repository.
+b. Select the first five observations with 4 cards.
 
-2. **Saving Your Work:**
-    - Make sure to save your notebook with any changes made during analysis.
-    - Save the notebook to your task folder for submission.
+c. Sort the observations by 'Education' with users having a higher education value displayed first.
 
-3. **Submission:**
-    - Please ensure all tasks are completed and the notebook is saved before submitting.
-    - Verify that the notebook runs without errors before submission.
+## Instructions
 
-## Additional Resources:
+### File Structure:
 
-- For further information on the dataset and the tasks, please refer to the file `13-007 Datasets and DataFrames.pdf`.
+- The main notebook for the task is `DatasetsTask.ipynb`.
+- All related files and datasets are stored within this repository.
+
+### Saving Your Work:
+
+- Ensure to save your notebook with any changes made during analysis.
+- Save the notebook to your task folder for submission.
+
+### Submission:
+
+- Please ensure all tasks are completed and the notebook is saved before submitting.
+- Verify that the notebook runs without errors before submission.
+
+## Additional Resources
+
+For further information on the dataset and the tasks, please refer to the file `13-007 Datasets and DataFrames.pdf`.
 
 Thank you for reviewing! If you have any questions or concerns, feel free to reach out.
+## 🛠 Skills
+- Data analysis with Python
+- Python programming
+- Data manipulation with Pandas
+- Data sorting and filtering
+- File management and organization
+- Documentation and instructions writing
+
